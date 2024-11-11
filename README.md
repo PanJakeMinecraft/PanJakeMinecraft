@@ -3,4 +3,3 @@
 - PyQt and Pygame programmer
 - Web designer / programmer using HTML, JS, PHP, Jsx
 - AI with machine learning using Python
-- 
