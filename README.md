@@ -1,7 +1,8 @@
 I'm Jake Phillip
 
-- Game Programming using Unity engine
+- Game design and Programming using Unity engine
 - C# programmer (for game programming)
-- PyQt and Pygame programmer
+- PyQt, Tkinter, PySide, and Pygame programmer
 - Web designer / programmer using HTML, JS, PHP, Jsx
 - AI with machine learning using Python
+- Mobile application programming with flutter (beginner level)
