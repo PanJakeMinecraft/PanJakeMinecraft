@@ -6,3 +6,4 @@ I'm Jake Phillip
 - Web designer / programmer using HTML, JS, PHP, Jsx
 - AI with machine learning using Python
 - Mobile application programming with flutter (beginner level)
+- Graphics programmer
